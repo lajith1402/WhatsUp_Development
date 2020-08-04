@@ -39,3 +39,8 @@ Author: Arulprasath
 Thank you so much sir.. your explanations and video are amazing
 
 11. Block users in status
+
+New set of changes:
+
+1. Whatsup text changes updated by aji
+2. Checking fork option in this file
